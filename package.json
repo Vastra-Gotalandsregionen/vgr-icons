@@ -1,0 +1,14 @@
+{
+  "name": "vgr-icons",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "license": "CC-BY-SA-4.0",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-svg-symbols": "^1.0.0",
+    "vgr-build-base": "git+ssh://git@bitbucket.org:whitespace_se/vgr-build-base.git"
+  }
+}
