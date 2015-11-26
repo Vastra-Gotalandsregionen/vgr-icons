@@ -10,5 +10,8 @@
     "gulp-rename": "^1.2.2",
     "gulp-svg-symbols": "^1.0.0",
     "vgr-build-base": "git+ssh://git@bitbucket.org:whitespace_se/vgr-build-base.git"
+  },
+  "buildSettings": {
+    "copy": [ "icons/**" ]
   }
 }
