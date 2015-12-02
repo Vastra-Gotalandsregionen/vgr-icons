@@ -10,7 +10,7 @@ build.config.icons = {
 
 	watch: '**/*.svg',
 
-	dest: ''
+	dest: 'icons'
 };
 
 var gulp = require('gulp');
